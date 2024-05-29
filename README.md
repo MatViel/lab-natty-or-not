@@ -1,4 +1,3 @@
-```markdown
 E-BOOK "Receitas Práticas para Pessoas Práticas" gerado por IA
 
 📒 Descrição
