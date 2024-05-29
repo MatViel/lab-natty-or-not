@@ -5,6 +5,7 @@ Pensei em criar um e-book que tivesse interação artística com o usuário. Por
 
 🤖 Tecnologias Utilizadas
 [OpenAI ChatGPT-3.5](https://chatgpt.com/?oai-dm=1)
+
 [Canva](https://www.canva.com/)
 
 🧐 Processo de Criação
