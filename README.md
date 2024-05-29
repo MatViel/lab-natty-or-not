@@ -1,5 +1,3 @@
-### Template
-
 ```markdown
 E-BOOK "Receitas Práticas para Pessoas Práticas" 100% gerado por IA
 
