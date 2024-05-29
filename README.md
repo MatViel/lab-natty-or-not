@@ -1,5 +1,5 @@
 ```markdown
-E-BOOK "Receitas Práticas para Pessoas Práticas" 100% gerado por IA
+E-BOOK "Receitas Práticas para Pessoas Práticas" gerado por IA
 
 📒 Descrição
 Pensei em criar um e-book que tivesse interação artística com o usuário. Portanto, criei um e-book que tivesse receitas geradas por IA e suas respectivas imagens também.
